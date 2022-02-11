@@ -1,0 +1,10 @@
+C:\Users\jaynewman\svgit\HttpClientFactoryMiddlewareDemo\HttpClientFactoryMiddleware\bin\Debug\netstandard2.0\HttpClientFactoryMiddleware.deps.json
+C:\Users\jaynewman\svgit\HttpClientFactoryMiddlewareDemo\HttpClientFactoryMiddleware\bin\Debug\netstandard2.0\HttpClientFactoryMiddleware.dll
+C:\Users\jaynewman\svgit\HttpClientFactoryMiddlewareDemo\HttpClientFactoryMiddleware\bin\Debug\netstandard2.0\HttpClientFactoryMiddleware.pdb
+C:\Users\jaynewman\svgit\HttpClientFactoryMiddlewareDemo\HttpClientFactoryMiddleware\obj\Debug\netstandard2.0\HttpClientFactoryMiddleware.csproj.AssemblyReference.cache
+C:\Users\jaynewman\svgit\HttpClientFactoryMiddlewareDemo\HttpClientFactoryMiddleware\obj\Debug\netstandard2.0\HttpClientFactoryMiddleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaynewman\svgit\HttpClientFactoryMiddlewareDemo\HttpClientFactoryMiddleware\obj\Debug\netstandard2.0\HttpClientFactoryMiddleware.AssemblyInfoInputs.cache
+C:\Users\jaynewman\svgit\HttpClientFactoryMiddlewareDemo\HttpClientFactoryMiddleware\obj\Debug\netstandard2.0\HttpClientFactoryMiddleware.AssemblyInfo.cs
+C:\Users\jaynewman\svgit\HttpClientFactoryMiddlewareDemo\HttpClientFactoryMiddleware\obj\Debug\netstandard2.0\HttpClientFactoryMiddleware.csproj.CoreCompileInputs.cache
+C:\Users\jaynewman\svgit\HttpClientFactoryMiddlewareDemo\HttpClientFactoryMiddleware\obj\Debug\netstandard2.0\HttpClientFactoryMiddleware.dll
+C:\Users\jaynewman\svgit\HttpClientFactoryMiddlewareDemo\HttpClientFactoryMiddleware\obj\Debug\netstandard2.0\HttpClientFactoryMiddleware.pdb

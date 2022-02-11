@@ -1,0 +1,5 @@
+C:\Users\jaynewman\svgit\HttpClientFactoryMiddlewareDemo\HttpClientFactoryMiddlewareDemo\obj\Debug\net6.0\HttpClientFactoryMiddlewareDemo.csproj.AssemblyReference.cache
+C:\Users\jaynewman\svgit\HttpClientFactoryMiddlewareDemo\HttpClientFactoryMiddlewareDemo\obj\Debug\net6.0\HttpClientFactoryMiddlewareDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaynewman\svgit\HttpClientFactoryMiddlewareDemo\HttpClientFactoryMiddlewareDemo\obj\Debug\net6.0\HttpClientFactoryMiddlewareDemo.AssemblyInfoInputs.cache
+C:\Users\jaynewman\svgit\HttpClientFactoryMiddlewareDemo\HttpClientFactoryMiddlewareDemo\obj\Debug\net6.0\HttpClientFactoryMiddlewareDemo.AssemblyInfo.cs
+C:\Users\jaynewman\svgit\HttpClientFactoryMiddlewareDemo\HttpClientFactoryMiddlewareDemo\obj\Debug\net6.0\HttpClientFactoryMiddlewareDemo.csproj.CoreCompileInputs.cache
